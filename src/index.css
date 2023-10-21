@@ -1,4 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Public+Sans&display=swap');
+
 *{
   margin: 0;
   padding: 0;
+  font-family: Public Sans;
+}
+
+.activeListItem{
+  background-color: #3366FF14 !important;
+}
+
+
+.css-to4x1n-MuiBadge-badge{
+  font-size: 0.60rem !important;
+  min-width: 14px !important;
+  height: 14px !important;
+  padding: 0 !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected{
+  color: #212B36 !important;
+  font-weight: 600 !important;
+  /* font-size: 10px !important; */
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+  text-transform: none !important;
+}
+
+.css-13xfq8m-MuiTabPanel-root{
+  padding: 20px 10px !important;
+}
+
+
+
+.css-ahj2mt-MuiTypography-root{
+  font-size: 12px !important;
+}
+
+
+.css-pdct74-MuiTablePagination-selectLabel{
+  font-size: 12px !important;
+}
+
+.css-16c50h-MuiInputBase-root-MuiTablePagination-select{
+  font-size: 12px !important;
+}
+
+.css-levciy-MuiTablePagination-displayedRows{
+  font-size: 12px !important;
+}
+
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+  padding: 9px 14px !important;
 }
