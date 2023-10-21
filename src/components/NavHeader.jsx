@@ -33,7 +33,7 @@ const NavHeader = () => {
       >
         <img src={langIcon} width="20px" height="14px" alt="" />
 
-        <Badge badgeContent={4} color="error" width="14px" height="14px">
+        <Badge badgeContent={4} color="error">
           <img src={notificationIcon} width="17px" height="17px" alt="" />
         </Badge>
 

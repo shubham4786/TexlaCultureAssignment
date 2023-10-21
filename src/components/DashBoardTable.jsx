@@ -38,8 +38,8 @@ const DashBoardTable = () => {
           select
           label="Service type"
           defaultValue="All"
-          // helperText="Please select your currency"
           sx={{ width: "20%" }}
+          size="small"
         >
           {currencies.map((option) => (
             <MenuItem key={option.value} value={option.value}>
